@@ -1,0 +1,16 @@
+{
+  "name": "node-includes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-includes.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Rod Vagg <r@va.gg> (http://r.va.gg/)",
+  "license": "MIT",
+  "devDependencies": {
+    "mkdirp": "~0.5.0",
+    "rimraf": "~2.2.8",
+    "tape": "~2.13.3"
+  }
+}
